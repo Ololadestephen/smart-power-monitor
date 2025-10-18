@@ -1,2 +1,3 @@
 # Cleaned up unnecessary whitespace and improved readability
 # Added inline comments and function docstrings for clarity
+# Optimized loop for performance
