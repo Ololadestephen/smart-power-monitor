@@ -1,1 +1,2 @@
 # Cleaned up unnecessary whitespace and improved readability
+# Added inline comments and function docstrings for clarity
